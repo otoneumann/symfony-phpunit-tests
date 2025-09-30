@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS hidden folders
+__MACOSX/
+
+# Thumbnails
+._*
+
+# Icon files
+Icon?

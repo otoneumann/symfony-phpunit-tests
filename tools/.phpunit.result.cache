@@ -1,0 +1,1 @@
+{"version":2,"defects":{"PersonTest::testGetFullNamesIsFirstNameAndSurname":8},"times":{"PersonTest::testGetFullNamesIsFirstNameAndSurname":0,"Functions::testAddTwoPositiveIntegers":0,"Functions::testAddTwoNegativeIntegers":0,"Functions::testAddPositiveAndNegativeIntegers":0,"Functions::testAddZeroToIntegers":0,"Functions::testAddingIsCommutative":0.001}}
